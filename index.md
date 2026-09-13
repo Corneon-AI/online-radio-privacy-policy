@@ -5,6 +5,13 @@
 Online Radio – Live FM & Music (“we”, “our”, or “the app”) respects your privacy.  
 This Privacy Policy explains how information is handled when you use our mobile application.
 
+**Website:** <https://onlineliveradio.com>  
+**Android app:** [Google Play](https://play.google.com/store/apps/details?id=com.mohan.onlineradio)
+
+This policy covers the **Android application**. The web player at
+[onlineliveradio.com](https://onlineliveradio.com) offers optional accounts and a paid
+subscription, neither of which the app does, so the sections below describe the app only.
+
 ---
 
 ## 1. Information We Collect
@@ -96,7 +103,8 @@ Any changes will be posted on this page with an updated revision date.
 
 If you have any questions or concerns about this Privacy Policy, you can contact us at:
 
-📧 **Email:** psgtech.mohan@gmail.com
+📧 **Email:** psgtech.mohan@gmail.com  
+🌐 **Web:** <https://onlineliveradio.com>
 
 ---
 
