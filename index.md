@@ -103,7 +103,7 @@ Any changes will be posted on this page with an updated revision date.
 
 If you have any questions or concerns about this Privacy Policy, you can contact us at:
 
-📧 **Email:** psgtech.mohan@gmail.com  
+📧 **Email:** privacy@onlineliveradio.com  
 🌐 **Web:** <https://onlineliveradio.com>
 
 ---
